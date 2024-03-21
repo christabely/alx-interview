@@ -1,1 +1,1 @@
-alx interview/ 0-nqueens.py
+# Readme for this dir
